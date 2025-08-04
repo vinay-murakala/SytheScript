@@ -175,6 +175,3 @@ The application follows a modular architecture:
 - **PyMuPDF**: For robust PDF processing
 - **YouTube Transcript API**: For video transcript extraction
 
----
-
-**Made with ❤️ for content creators and researchers**
